@@ -1,0 +1,16 @@
+.caption
+{
+	color:white;
+	background-color:red;
+	text-align:left;
+	font-size:20px;
+	padding:3px;
+	margin:30px;
+}
+img
+{
+	display:black;
+	border-radius:8px;
+	margin-left:38%;
+
+}
